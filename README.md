@@ -1,3 +1,23 @@
+,---------.    .-''-.     .-'''-. ,---------.      
+\          \ .'_ _   \   / _     \\          \     
+ `--.  ,---'/ ( ` )   ' (`' )/`--' `--.  ,---'     
+    |   \  . (_ o _)  |(_ o _).       |   \        
+    :_ _:  |  (_,_)___| (_,_). '.     :_ _:        
+    (_I_)  '  \   .---..---.  \  :    (_I_)        
+   (_(=)_)  \  `-'    /\    `-'  |   (_(=)_)       
+    (_I_)    \       /  \       /     (_I_)        
+    '---'     `'-..-'    `-...-'      '---'        
+.-------.        .-''-.  .-------.     ,-----.     
+|  _ _   \     .'_ _   \ \  _(`)_ \  .'  .-,  '.   
+| ( ' )  |    / ( ` )   '| (_ o._)| / ,-.|  \ _ \  
+|(_ o _) /   . (_ o _)  ||  (_,_) /;  \  '_ /  | : 
+| (_,_).' __ |  (_,_)___||   '-.-' |  _`,/ \ _/  | 
+|  |\ \  |  |'  \   .---.|   |     : (  '\_/ \   ; 
+|  | \ `'   / \  `-'    /|   |      \ `"/  \  ) /  
+|  |  \    /   \       / /   )       '. \_/``".'   
+''-'   `'-'     `'-..-'  `---'         '-----'     
+
+                                                   
 # Exercise
 
 Clone this repository to your computer via the CLI (cmd or terminal):
@@ -11,7 +31,9 @@ Clone this repository to your computer via the CLI (cmd or terminal):
 * Once cloned, you can open the folder in your IDE (e.g. Webstorm) and start working on the code
 * Add your name below to the README.md file
 
-##MY NAME IS : .........
+# [--------------->>>
+# [ MY NAME IS : .........
+# [ --------------<<<
 
 * Commit your changes in the terminal (!) with the following commands:
   * git add .
